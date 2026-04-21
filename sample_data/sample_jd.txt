@@ -1,0 +1,40 @@
+Full Stack Developer — Product Startup
+Location: Bangalore, India
+Experience: 0–2 years
+Employment Type: Full-time
+
+About Us:
+We are a fast-growing B2B SaaS startup building the next generation of workflow automation tools for mid-sized enterprises. Our team of 40 engineers ships fast, iterates faster, and believes great software comes from empowered developers. We are backed by top-tier VCs and growing 3x year-on-year.
+
+Role Overview:
+We are looking for a passionate Full Stack Developer to join our product engineering team. You will work directly with senior engineers and product managers to build, test, and ship features that our customers use every day. This is a high-ownership role — you will write code that goes to production within your first two weeks.
+
+Responsibilities:
+- Build and maintain frontend features using React and modern JavaScript
+- Develop RESTful APIs and backend services using Node.js and Express
+- Write and optimise SQL queries for PostgreSQL databases
+- Collaborate with designers to implement pixel-perfect UI components
+- Participate in code reviews and contribute to improving team standards
+- Write unit and integration tests for your code
+- Debug and resolve issues in production with a sense of urgency
+
+Required Skills:
+- React.js — component-based UI development
+- Node.js and Express — server-side development
+- PostgreSQL or any relational database — schema design and querying
+- REST API design and integration
+- Git — version control and collaborative workflows
+- Basic understanding of HTML and CSS
+
+Nice to Have:
+- Experience with Docker or any containerisation tool
+- Familiarity with AWS or any cloud platform
+- Knowledge of Redis or caching strategies
+- Exposure to CI/CD pipelines
+
+What We Offer:
+- Competitive salary: 6–10 LPA depending on skills
+- Remote-friendly culture with flexible hours
+- Direct mentorship from senior engineers
+- Fast growth — many of our junior developers become tech leads within 18 months
+- Equity options after 1 year
