@@ -464,7 +464,7 @@ header { visibility: hidden; }
 </style>
 """, unsafe_allow_html=True)
 # Kill the keyboard shortcut floating element
-st.iframe("""
+st.components.v1.html("""
 <script>
 function removeKeyboardOverlay() {
     // Find and remove any element containing 'keyboard' text
