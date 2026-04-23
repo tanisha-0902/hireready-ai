@@ -2,7 +2,7 @@
 
 > Upload your resume. Paste a JD. Know exactly where you stand.
 
-**[Live App]()** · Built with Python + Groq AI · Deployed on Streamlit Cloud
+**[Live App](https://hireready-ai.streamlit.app/)** · Built with Python + Groq AI · Deployed on Streamlit Cloud
 
 ---
 
