@@ -4,11 +4,16 @@ from groq import Groq
 
 load_dotenv()
 
-api_key = os.getenv("GROQ_API_KEY")
+# Load key from Streamlit Cloud secrets OR local .env
+# This makes the app work both locally and when deployed
+try:
+    import streamlit as st
+    api_key = st.secrets.get("GROQ_API_KEY") or os.getenv("GROQ_API_KEY")
+except Exception:
+    api_key = os.getenv("GROQ_API_KEY")
 
 if not api_key:
-    print("WARNING: GROQ_API_KEY is not set in your .env file.")
-    print("Go to console.groq.com to get your free key, then add it to .env")
+    print("WARNING: GROQ_API_KEY is not set.")
     client = None
 else:
     # Groq() creates the client — same waiter analogy as before,
