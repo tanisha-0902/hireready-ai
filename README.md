@@ -38,13 +38,3 @@ Free API key at [console.groq.com](https://console.groq.com)
 Python · Streamlit · Groq LLaMA 3.3-70B · pdfplumber · pandas
 
 ---
-
-## Team
-
-**Driksha Thakur** — AI pipeline, Groq integration, all feature logic
-
-**Tanisha [Last Name]** — UI, PDF parser, batch screener, data export
-
----
-
-*MIT License*
